@@ -1,3 +1,3 @@
-# Node.js REST-API & Postgres (local db)
+# Node.js & Postgres
 
 [Tutorial](https://youtu.be/p3RFMEixUOE)
